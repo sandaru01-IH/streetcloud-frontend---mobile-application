@@ -24,8 +24,6 @@
 
 The phone holds the photograph, the written idea, and the review. Generation, storage, and Alexander scoring stay on the [Street Cloud control plane](https://github.com/sandaru01-IH/streetcloud-backend-system). Provider keys never enter the app.
 
-The launcher name is **Street Cloud**. The icon is the cloud-and-road mark.
-
 ## What you can do
 
 | Surface | Purpose |
